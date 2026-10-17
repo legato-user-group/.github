@@ -7,7 +7,7 @@
 ### **From Tensor to Silicon — Open Low-Level IR & LPU Ecosystem**
 
 [![Legato Tech Blog](https://img.shields.io/badge/Tech%20Blog-What%20is%20Legato%3F-00B4D8?style=for-the-badge)](https://hyper-accel.github.io/posts/what-is-legato/)
-[![ModuLabs](https://img.shields.io/badge/Community-ModuLabs%20(모두의연구소)-F7585C?style=for-the-badge)](https://modulabs.co.kr/labs/811)
+[![MODULABS](https://img.shields.io/badge/Community-ModuLabs%20(모두의연구소)-F7585C?style=for-the-badge)](https://modulabs.co.kr/labs/811)
 [![Supported by](https://img.shields.io/badge/Supported%20by-MSIT%20%26%20IITP%20(K--Cloud)-004EA2?style=for-the-badge)](https://www.iitp.kr)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 
@@ -17,7 +17,7 @@
 
 ## 👋 Welcome to Legato User Group!
 
-**Legato User Group**은 하이퍼엑셀(HyperAccel)의 LPU(LLM Processing Unit) 및 차세대 AI 가속기를 위한 프로그래밍 언어·저수준 공개 IR인 **[Legato](https://hyper-accel.github.io/posts/what-is-legato/)**와 **AI 시스템 소프트웨어(컴파일러·런타임·커널)**를 함께 탐구하고 기여하는 오픈소스 개발자·연구자 커뮤니티입니다.
+**Legato User Group**은 하이퍼엑셀(HyperAccel)의 LPU(LLM Processing Unit) 및 차세대 AI 가속기를 위한 프로그래밍 언어·저수준 공개 IR인 [**Legato**](https://hyper-accel.github.io/posts/what-is-legato/)와 **AI 시스템 소프트웨어(컴파일러·런타임·커널)**를 함께 탐구하고 기여하는 오픈소스 개발자·연구자 커뮤니티입니다.
 
 > 🎵 **Why "Legato"?**  
 > 음악에서 음과 음을 끊지 않고 매끄럽게 이어 연주하라는 지시어 **Legato(이음줄)**처럼, 상위 AI 모델·프레임워크(`PyTorch`, `vLLM`, `SGLang`)와 하위 AI반도체 실리콘(`LPU`, `NPU`) 사이를 단절 없이 매끄럽고 투명하게 연결한다는 의미를 담고 있습니다.
@@ -76,7 +76,7 @@ def simple_matmul(a, b, out):
 - **㈜스퀴즈비츠 (SqueezeBits)** — PyTorch/vLLM 연동 컴파일러 프론트엔드 및 정밀도 제어 기반 모델 경량화·양자화
 - **서울대학교 (SNU)** — NPU 특화 커널 설계 공간 정의, 그래프 변환 및 연산·통신 중첩 스케줄링 최적화
 - **한국과학기술원 (KAIST)** — NPU-GPU 이기종 LLM 서빙 시스템 시뮬레이터 및 클러스터 스케줄링 자동 탐색
-- **모두의연구소 (ModuLabs)** — 오픈소스 커뮤니티(Legato User Group) 운영, 공개 교재 집필(T2S Lab) 및 기술 컨퍼런스/워크숍 개최
+- **모두의연구소 (MODULABS)** — 오픈소스 커뮤니티(Legato User Group) 운영, 공개 교재 집필(T2S Lab) 및 기술 컨퍼런스/워크숍 개최
 
 ---
 
