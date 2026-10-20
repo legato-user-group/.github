@@ -61,7 +61,7 @@ def simple_matmul(a, b, out):
 
 | 구분 | 레포지토리 / 프로그램 | 설명 | 상태 |
 | :---: | :--- | :--- | :---: |
-| 📘 **학습 & 교재** | [**`tensor2slicon-lab`**](https://github.com/legato-user-group/tensor2slicon-lab) | **[T2S Lab]** AI 모델에서 가속기 커널까지 — 실행 스택, Roofline, Tiling, Triton, xPU, Legato를 다루는 오픈소스 온라인 교재 | 🟢 **진행 중** |
+| 📘 **학습 & 교재** | [**`tensor2silicon-lab`**](https://github.com/legato-user-group/tensor2silicon-lab) | **[T2S Lab]** AI 모델에서 가속기 커널까지 — 실행 스택, Roofline, Tiling, Triton, xPU, Legato를 다루는 오픈소스 온라인 교재 | 🟢 **진행 중** |
 | 📄 **명세 & 문서** | `legato-docs` *(예정)* | Legato 저수준 IR 명세서, 프로그래밍 모델 가이드, API 레퍼런스 및 튜토리얼 (국/영문) | 🔜 공개 예정 |
 | 💻 **샘플 & 툴킷** | `legato-samples` *(예정)* | 외부 개발자 온보딩을 위한 Legato 커널 작성 예제 및 PyTorch/vLLM 연동 샘플 | 🔜 공개 예정 |
 | 🏆 **벤치마크** | `legato-leaderboard` *(예정)* | 오픈소스 기여자 중심의 AI 가속기 커널 성능 벤치마크 및 리더보드 | 🔜 공개 예정 |
